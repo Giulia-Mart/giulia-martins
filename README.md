@@ -16,15 +16,30 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-Profissional com domínio em Excel e Análise de Dados, capaz de transformar dados em informações relevantes para a organização, fornecendo insigths valiosos para tomada de decisão.
- Habilidades em Excel aplicada para negócios e Power Bi, aumentando a produtividade e eficiência do Trabalho.
- Conhecimento em outras ferramentas e tecnologias, tais como: Python, SQL, Power Apps, Google Sheets, Chat GPT, dentre outras.
+Profissional Surda
 
-  - 👨‍🎓 Bacharelando em Ciência de Dados pela UNIVESP, formado em Engenharia elétrica pela PUCSP e mestre em Educação Profissional
-  - 👨‍💻 Estou em Migração para a área de dados. Possuo experiência em docência em ensino superior e desenvolvimento de projetos de automação industrial
-  - 📊 Fui coordenador de curso de Análise e Desenvolvimento de Sistemas, docente de ensino técnico
-  - 🔭 Atualmente estou focado nas áreas de Análise e Ciência de Dados
-  - Sou embaixador da DIO, por meio do programa DIO Campus Expert
+Sou estudante de **Informática para Negócios**  atualmente no terceiro semestre. Paralelamente, faço o curso de **Desenvolvimento de Sistemas** no Senai e conclui o curso técnico de **Implantação de Sistemas em Nuvem** em 2023. Tenho **fluência em Libras** e conhecimento intermediário de inglês escrito.
+
+Atualmente, atuo como **Jovem aprendiz na área de compras** na Scania.
+Sou comunicativa, trabalho bem em equipe e gosto de desafios que exigem criatividade e inovação. Além disso, já realizei trabalho voluntário como **instrutora de Libras** e na **edição de fotos para mídias sociais**.
+
+## Habilidades Técnicas
+- **Libras** (fluência)
+- **Inglês intermediário** (escrita)
+- **Implantação de sistemas em nuvem**
+- **Desenvolvimento de sistemas**
+- **Edição de imagens para mídias sociais**
+- **Colaboração em equipe e comunicação**
+  
+## Experiência
+- * Jovem aprendiz na área de compras | Scania* *(atual)*
+- *Instrutora voluntária de Libras*
+- *Edição de fotos para mídias sociais*
+  
+## Formação
+- *Graduação em Informática para Negócios - FATEC* *(em andamento – 3º semestre)*
+- **Curso técnico Senai: Implantação de Sistemas em Nuvem** *(concluído em 2023)*
+- **Curso Senai: Desenvolvimento de Sistemas** *(em andamento)*
 
 <h2 align="left">Skills:</h2>
 
