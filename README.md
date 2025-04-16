@@ -32,7 +32,7 @@ Sou comunicativa, trabalho bem em equipe e gosto de desafios que exigem criativi
 - **Colaboração em equipe e comunicação**
   
 ## Experiência
-- * Jovem aprendiz na área de compras | Scania* *(atual)*
+- *Jovem aprendiz na área de compras | Scania (atual)*
 - *Instrutora voluntária de Libras*
 - *Edição de fotos para mídias sociais*
   
